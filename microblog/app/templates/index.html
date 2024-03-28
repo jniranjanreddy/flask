@@ -1,37 +1,9 @@
-<!-- <html>
-<head>
- <title> {{ title }} - microblog </title>
-</head>
- <body>
-     <h1>Hi, {{ user.username }}!</h1>
- </body>
-</html>
- -->
 
+{% extends "base.html" %}
 
-
- <!-- Conditions and Loops -->
- <!-- <html>
-  <head>
-   {% if title %}
-   <title> {{ title }} - microblog </title>
-   {% else %}
-   <title> Welcome to microblog </title>
-   {% endif %}
-  </head>
-   <body>
-       <h1>Hi, {{ user.username }}!</h1>
-       {% for post in posts %}
-       <div><p>{{ post.author.username }} says: <b>{{ post.body }}</b></p></div>
-       {% endfor %}
-   </body>
-  </html> -->
-
-  {% extends "base.html" %}
-
-  {% block content %}
+{% block content %}
     <h1>Hi, {{ user.username }}!</h1>
     {% for post in posts %}
     <div><p>{{ post.author.username }} says: <b>{{ post.body }}</b></p></div>
     {% endfor %}
-  {% endblock %}
+{% endblock %}
