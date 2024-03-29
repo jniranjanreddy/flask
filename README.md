@@ -2,6 +2,8 @@
 ## Source: https://github.com/miguelgrinberg/microblog/tree/v0.1
 ## Code: https://github.com/miguelgrinberg/microblog
 ## Flask Functions
+export FLASK_DEBUG=1
+set FLASK_DEBUG=1
 ```
 Blueprint 
 Config 
