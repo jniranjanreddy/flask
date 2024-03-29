@@ -3,7 +3,7 @@
 *.bat
 Scripts
 
-section*
+LICENSE
 #Python Library files.
 Lib
 *.exe
