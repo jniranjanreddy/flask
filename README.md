@@ -1,6 +1,7 @@
 ## flask
 ## Source: https://github.com/miguelgrinberg/microblog/tree/v0.1
 ## Code: https://github.com/miguelgrinberg/microblog
+## Blueprint - https://www.youtube.com/watch?v=pjVhrIJFUEs&t=2s
 ## Flask Functions
 export FLASK_DEBUG=1
 set FLASK_DEBUG=1
