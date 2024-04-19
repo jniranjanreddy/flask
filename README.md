@@ -4,6 +4,7 @@
 ## Blueprint - https://www.youtube.com/watch?v=pjVhrIJFUEs&t=2s
 ## Flask Functions
 ## API - 
+## JWT - https://www.youtube.com/watch?v=J5bIPtEbS0Q
 export FLASK_DEBUG=1
 set FLASK_DEBUG=1
 ```
