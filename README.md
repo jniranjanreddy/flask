@@ -5,6 +5,7 @@
 ## Flask Functions
 ## API - 
 ## JWT - https://www.youtube.com/watch?v=J5bIPtEbS0Q
+## Pizza app - https://www.youtube.com/watch?v=aCwsQ0vUEk0&t=4120s
 export FLASK_DEBUG=1
 set FLASK_DEBUG=1
 ```
