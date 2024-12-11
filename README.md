@@ -15,41 +15,56 @@ Flask-SQLAlchemy: Adds ORM support to Flask for interacting with databases.
 Flask-Migrate: Manages database migrations using Alembic with Flask-SQLAlchemy.
 Flask-Bcrypt or Flask-Argon2: For password hashing and encryption.
 Flask-Login: Handles user authentication and session management.
+
+
 2. Database Interaction
 SQLAlchemy: A powerful ORM for complex database interactions.
 Peewee: A lightweight ORM for simpler applications.
 PyMongo: For working with MongoDB.
 Redis-py: For caching and session storage.
+
+
 3. API Development
 Flask-RESTful: Adds tools for creating REST APIs with Flask.
 Flask-RESTPlus: Similar to Flask-RESTful, with added support for Swagger documentation.
 Marshmallow: For object serialization and validation.
 APScheduler: For running background jobs and scheduled tasks.
+
+
 4. Security
 Flask-Security: An extension integrating authentication, authorization, and user management.
 Flask-Limiter: Implements rate limiting for API endpoints.
 Flask-CORS: Enables Cross-Origin Resource Sharing for APIs.
 Flask-Helmet: Provides basic security headers for Flask applications.
+
+
 5. Template and Frontend Integration
 Jinja2: Flask's default template engine.
 WTForms: Simplifies creating and validating HTML forms.
 Flask-Bootstrap or Flask-Material: For integrating frontend frameworks.
+
 6. Testing and Debugging
 Pytest: A robust framework for testing Flask applications.
 Flask-Testing: Adds testing utilities specific to Flask.
 Coverage.py: Measures code coverage in your tests.
+
+
 7. File and Media Handling
 Flask-Uploads or Flask-Storage: For file upload and storage management.
 Pillow: For image processing and manipulation.
 8. Task Queues and Background Jobs
 Celery: For managing asynchronous tasks.
 RQ (Redis Queue): A lightweight alternative for background task processing.
+
+
 9. Other Useful Libraries
 Dotenv: Loads environment variables from .env files.
 Flask-Mail: For sending emails from your Flask application.
 Flask-Caching: Adds caching support to improve performance.
 Gunicorn: A WSGI server for deploying Flask apps in production.
 Requests: For making HTTP requests.
+
+
 10. Advanced Tools
 Flask-SocketIO: Adds WebSocket support for real-time communication.
 Flask-Talisman: Helps secure apps by setting HTTP headers like CSP.
