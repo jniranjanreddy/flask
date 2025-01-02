@@ -6,6 +6,7 @@
 ## API - 
 ## JWT - https://www.youtube.com/watch?v=J5bIPtEbS0Q
 ## Pizza app - https://www.youtube.com/watch?v=aCwsQ0vUEk0&t=4120s
+## Krish Naik - https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc
 export FLASK_DEBUG=1
 set FLASK_DEBUG=1
 ```
